@@ -1,157 +1,167 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Ka Chun Wong",
+    "label": "Software Engineer",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
-    "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
-    },
+    "email": "kcwong.joe@gmail.com",
+    "url": "https://kcwongjoe.github.io",
+    "summary": "Good in c++ software development, mathematics, electronic circuit design and embedded system design.",
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "linkedin",
+        "username": "kcwongjoe",
+        "url": "https://www.linkedin.com/in/kcwongjoe"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
+      "name": "Canon Medical Research Europe",
+      "position": "Software Engineer",
+      "startDate": "2021-09",
+      "endDate": "present",
+      "summary": "",
+      "highlights": ["Majorly maintenance software in the medical ultrasound machine in a software development life cycle.",
+                     "Mostly working on software testing, defect fixing and feature development in c++"
+                    ]
+    },
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "name": "Hong Kong Applied Science and Technology Research Institute Company Limited",
+      "position": "Lead Engineer",
+      "startDate": "2020-03",
+      "endDate": "2021-07",
+      "summary": "Worked in a Diamond Classification project which:",
+      "highlights": ["Developed an Android app (Java, C++, OpenCV).",
+                     "Software development for hardware control and GUI (Image processing skills, MCU, C++, QT5)."
+                    ]
+    },
+    {
+      "name": "Hong Kong Applied Science and Technology Research Institute Company Limited",
+      "position": "Senior Engineer",
+      "startDate": "2019-10",
+      "endDate": "2020-03",
+      "summary": "As the sole software and hardware engineer in my team, I have worked on a 3D scanning system project which:",
+      "highlights": ["designed a Stereo UV camera system.",
+                     "designed a circuit for the system components controlling",
+                     "developed GUI (C#, WPF)",
+                     "implemented 3D reconstruction algorithms and designed the calibration (C++, Geometry)."
+                    ]
+    },
+    {
+      "name": "Sapiens Environmental Technology Co Limited",
+      "position": "Software Engineer",
+      "startDate": "2019-04",
+      "endDate": "2019-09",
+      "summary": "",
+      "highlights": ["Full-stack development for controlling air pollution sensors and data visualisation (Java Spring Boot, JavaScript, HTML5, CSS and MYSQL).",
+                      "Programmed framework to control pollutant sensors. (MCU, STM32, RTOS)",
+                      "Developed software to communicate with the sensor. (Python)"
+                    ]
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
-    }
-  ],
-  "awards": [
+      "institution": "School of Energy and Environment, City University of Hong Kong",
+      "location": "Hong Kong",
+      "url": "https://www.cityu.edu.hk/see/",
+      "area": "Air pollutant measurement",
+      "studyType": "Doctor of Philosophy in Energy and Environment",
+      "startDate": "2013-09",
+      "endDate": "2019-07"
+    },
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "institution": "Department of Electronic Engineering, City University of Hong Kong",
+      "location": "Hong Kong",
+      "url": "https://www.ee.cityu.edu.hk/",
+      "area": "Electronic engineering",
+      "studyType": "Bachelor of Engineering (Honours) in Electronic and Communication",
+      "startDate": "2009-09",
+      "endDate": "2012-07"
     }
   ],
   "certificates": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
+      "name": "International Software Testing Qualifications Board Certification - Foundation Level",
+      "issuer": "ISTQB",
+      "url": "https://atsqa.org/"
     }
   ],
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "Impact of traffic volume and composition on the air quality and pedestrian exposure in urban street canyon",
+      "publisher": "Agata Rakowska, <u>Ka Chun Wong</u>, Thomas Townsend, Ka Lok Chan, Dane Westerdahl, Simon Ng, Griša Močnik, Luka Drinovec, Zhi Ning",
+      "releaseDate": "2014-12-01",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S1352231014006840"
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
+      "name": "Impact analysis of temperature and humidity conditions on electrochemical sensor response in ambient air quality monitoring",
+      "publisher": "Peng Wei, Zhi Ning, Sheng Ye, Li Sun, Fenhuan Yang, <u>Ka Chun Wong</u>, Dane Westerdahl, Peter KK Louie",
+      "releaseDate": "2018-01-23",
+      "url": "https://www.mdpi.com/1424-8220/18/2/59"
     },
     {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "name": "Development and application of a next generation air sensor network for the Hong Kong marathon 2015 air quality monitoring",
+      "publisher": "Li Sun, <u>Ka Chun Wong</u>, Peng Wei, Sheng Ye, Hao Huang, Fenhuan Yang, Dane Westerdahl, Peter KK Louie, Connie WY Luk, Zhi Ning",
+      "releaseDate": "2016-02-05",
+      "url": "https://www.mdpi.com/1424-8220/16/2/211"
+    },
+    {
+      "name": "Heterogeneity of passenger exposure to air pollutants in public transport microenvironments",
+      "publisher": "Fenhuan Yang, Daya Kaul, <u>Ka Chun Wong</u>, Dane Westerdahl, Li Sun, Kin-fai Ho, Linwei Tian, Peter Brimblecombe, Zhi Ning",
+      "releaseDate": "2015-05-01",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S135223101500223X"
+    },
+    {
+      "name": "Black carbon mass size distributions of diesel exhaust and urban aerosols measured using differential mobility analyzer in tandem with Aethalometer",
+      "publisher": "Zhi Ning, Ka Lok Chan, <u>KC Wong</u>, Dane Westerdahl, Griša Močnik, JH Zhou, Chun Shun Cheung",
+      "releaseDate": "2013-12-01",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S1352231014006840"
+    },
+    {
+      "name": "Dispersive infrared spectroscopy measurements of atmospheric CO2 using a Fabry–Pérot interferometer sensor",
+      "publisher": "Ka Lok Chan, Zhi Ning, Dane Westerdahl, <u>KC Wong</u>, YW Sun, A Hartl, Mark O Wenig",
+      "releaseDate": "2014-02-15",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S1352231014006840"
     }
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "name": "Programming",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "c, c++, C#",
+        "Java, Android(Java, C++)",
+        "Python",
+        "R, MATLAB"
+      ]
+    },
+    {
+      "name": "Math",
+      "keywords": [
+        "Statistics",
+        "Image processing",
+        "Geometry"
+      ]
+    },
+    {
+      "name": "Electronic",
+      "keywords": [
+        "Circuit design",
+        "FreeRTOS"
+      ]
+    },
+    {
+      "name": "Software development",
+      "keywords": [
+        "Git",
+        "CMake",
+        "Doxygen",
+        "PlantUML"
       ]
     }
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Cantonese",
       "fluency": "Native speaker",
       "icon": ""
     },
@@ -159,42 +169,6 @@
       "language": "English",
       "fluency": "Fluent",
       "icon": ""
-    }
-  ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
-  "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
     }
   ]
 }

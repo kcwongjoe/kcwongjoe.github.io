@@ -248,6 +248,8 @@ ul.task-list input[type="checkbox"] {
   border-bottom: 1px solid var(--global-divider-color);
   background-color: var(--global-bg-color);
   opacity: 0.95;
+  text-transform: uppercase;
+  font-weight: bold;
 }
 
 .navbar .dropdown-menu {
@@ -516,7 +518,7 @@ footer.sticky-bottom {
   padding-bottom: 3rem;
 
   h1 {
-    color: var(--global-theme-color);
+    color: var(--global-text-color);
     font-size: 5rem;
   }
 }

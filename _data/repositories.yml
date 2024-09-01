@@ -1,14 +1,10 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - kcwongjoe
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - kcwongjoe/directshow_camera
+  - kcwongjoe/doxygen_theme_flat_design
+  - kcwongjoe/pep8_example
+  - kcwongjoe/serial_port
