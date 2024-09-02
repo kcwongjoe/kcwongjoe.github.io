@@ -59,15 +59,18 @@ Other parameters are the argument pass to the funciton pointer. In this example,
 ```
 
 #### Method 3: Function template
+
 Pro:
 1. Valid to pass the local variable in the lambda function.
 2. No performance drop
 
 Con:
+
 1. Template function must be written in the header file.
 2. Increase the compile time
 
 <script src="https://gist.github.com/kcwongjoe/68221bde5b3c2ac6429e14a5f33dc8c3.js"></script>
 
 ## References
+
 https://blog.demofox.org/2015/02/25/avoiding-the-performance-hazzards-of-stdfunction/

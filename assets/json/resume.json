@@ -21,9 +21,10 @@
       "startDate": "2021-09",
       "endDate": "present",
       "summary": "",
-      "highlights": ["Majorly maintenance software in the medical ultrasound machine in a software development life cycle.",
-                     "Mostly working on software testing, defect fixing and feature development in c++"
-                    ]
+      "highlights": [
+        "Majorly maintenance software in the medical ultrasound machine in a software development life cycle.",
+        "Mostly working on software testing, defect fixing and feature development in c++"
+      ]
     },
     {
       "name": "Hong Kong Applied Science and Technology Research Institute Company Limited",
@@ -31,9 +32,10 @@
       "startDate": "2020-03",
       "endDate": "2021-07",
       "summary": "Worked in a Diamond Classification project which:",
-      "highlights": ["Developed an Android app (Java, C++, OpenCV).",
-                     "Software development for hardware control and GUI (Image processing skills, MCU, C++, QT5)."
-                    ]
+      "highlights": [
+        "Developed an Android app (Java, C++, OpenCV).",
+        "Software development for hardware control and GUI (Image processing skills, MCU, C++, QT5)."
+      ]
     },
     {
       "name": "Hong Kong Applied Science and Technology Research Institute Company Limited",
@@ -41,11 +43,12 @@
       "startDate": "2019-10",
       "endDate": "2020-03",
       "summary": "As the sole software and hardware engineer in my team, I have worked on a 3D scanning system project which:",
-      "highlights": ["designed a Stereo UV camera system.",
-                     "designed a circuit for the system components controlling",
-                     "developed GUI (C#, WPF)",
-                     "implemented 3D reconstruction algorithms and designed the calibration (C++, Geometry)."
-                    ]
+      "highlights": [
+        "designed a Stereo UV camera system.",
+        "designed a circuit for the system components controlling",
+        "developed GUI (C#, WPF)",
+        "implemented 3D reconstruction algorithms and designed the calibration (C++, Geometry)."
+      ]
     },
     {
       "name": "Sapiens Environmental Technology Co Limited",
@@ -53,10 +56,11 @@
       "startDate": "2019-04",
       "endDate": "2019-09",
       "summary": "",
-      "highlights": ["Full-stack development for controlling air pollution sensors and data visualisation (Java Spring Boot, JavaScript, HTML5, CSS and MYSQL).",
-                      "Programmed framework to control pollutant sensors. (MCU, STM32, RTOS)",
-                      "Developed software to communicate with the sensor. (Python)"
-                    ]
+      "highlights": [
+        "Full-stack development for controlling air pollution sensors and data visualisation (Java Spring Boot, JavaScript, HTML5, CSS and MYSQL).",
+        "Programmed framework to control pollutant sensors. (MCU, STM32, RTOS)",
+        "Developed software to communicate with the sensor. (Python)"
+      ]
     }
   ],
   "education": [
