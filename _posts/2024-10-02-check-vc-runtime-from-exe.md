@@ -7,7 +7,7 @@ tags: programming cpp debug
 categories: programming cpp
 ---
 
-Microsoft provided a build tools called `dumpbin` to display information from exe.
+Microsoft provided a build tool called `dumpbin` to display information from exe.
 
 Step 1: Open the **Developer Command Prompt for VS 20XX**
 
@@ -17,7 +17,7 @@ Step 2: Run the following command
 dumpbin /dependents <exe file>
 ```
 
-Step 3: Looking for the MSVCP______.dll or VCRUNTIME___.dll. The ___ is the version number of the vc runtime.
+Step 3: Looking for the MSVCPxxx.dll or VCRUNTIMExxx.dll. The xxx is the version number of the vc runtime.
 
 - 80: Visual Studio 2005
 - 100: Visual Studio 2010
