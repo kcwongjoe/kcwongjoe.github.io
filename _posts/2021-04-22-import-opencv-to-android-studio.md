@@ -2,7 +2,7 @@
 layout: post
 title: How to import OpenCV 4.5.2 in android studio
 date: 2021-04-22 00:00:00
-description: How to import OpenCV 4.5.2 in android studio
+description:
 tags: opencv android_studio cpp android jni
 categories: android opencv
 ---

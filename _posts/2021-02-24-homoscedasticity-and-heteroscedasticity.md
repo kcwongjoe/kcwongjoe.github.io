@@ -2,7 +2,7 @@
 layout: post
 title: Homoscedasticity and Heteroscedasticity
 date: 2021-02-24 00:00:00
-description: A brief overview of homoscedasticity and heteroscedasticity.
+description:
 tags: math homoscedasticity heteroscedasticity
 categories: math
 ---

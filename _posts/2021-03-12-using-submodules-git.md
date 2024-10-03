@@ -2,7 +2,7 @@
 layout: post
 title: Using submodules on git
 date: 2021-03-12 00:00:00
-description: Using submodules on git
+description:
 tags: git, notes, submodules
 categories: git, notes
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: Deep Copy/Shadow Copy an Object in Java
 date: 2021-05-12 00:00:00
-description: Deep Copy/Shadow Copy an Object in Java
+description:
 tags: programming java notes
 categories: programming java notes
 ---

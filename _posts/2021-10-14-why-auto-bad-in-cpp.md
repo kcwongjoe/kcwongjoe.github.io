@@ -2,7 +2,7 @@
 layout: post
 title: Why auto is bad in c++
 date: 2021-10-14 00:00:00
-description: Why auto is bad in c++
+description:
 tags: programming cpp
 categories: programming cpp
 ---

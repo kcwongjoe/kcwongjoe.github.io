@@ -73,4 +73,4 @@ Con:
 
 ## References
 
-https://blog.demofox.org/2015/02/25/avoiding-the-performance-hazzards-of-stdfunction/
+[https://blog.demofox.org/2015/02/25/avoiding-the-performance-hazzards-of-stdfunction/](https://blog.demofox.org/2015/02/25/avoiding-the-performance-hazzards-of-stdfunction/)

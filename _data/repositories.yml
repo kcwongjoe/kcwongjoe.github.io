@@ -6,5 +6,6 @@ repo_description_lines_max: 2
 github_repos:
   - kcwongjoe/directshow_camera
   - kcwongjoe/doxygen_theme_flat_design
+  - kcwongjoe/check_msvc_runtime_version
   - kcwongjoe/pep8_example
   - kcwongjoe/serial_port
