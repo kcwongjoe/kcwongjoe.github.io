@@ -7,7 +7,7 @@ tags: programming cpp debug
 categories: programming cpp
 ---
 
-#Using Dumpbin
+# Using Dumpbin
 
 Microsoft provided a build tool called `dumpbin` to display information from exe.
 
