@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to change the line endings in Linux
-date: 2024-10-02 00:00:00
+date: 2025-01-13 00:00:00
 description:
 tags: linux
 categories: linux
