@@ -14,9 +14,7 @@ Step 1: Download DebugView: [DebugView](https://learn.microsoft.com/en-us/sysint
 Step 2: Open DebugView and set the filter, for example:
 
 <div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0 px-md-5">
-        {% include figure.liquid path="assets/img/blog/2025-03-05-debug-view/debugview_filter.png" class="img-fluid z-depth-1" zoomable=true %}
-    </div>
+    {% include figure.liquid path="assets/img/blog/2025-03-05-debug-view/debugview_filter.png" class="img-fluid z-depth-1" zoomable=true %}
 </div>
 
 Step 3: Select the "Capture" Menu and try to enable all items except the last one for “Log Boot”
