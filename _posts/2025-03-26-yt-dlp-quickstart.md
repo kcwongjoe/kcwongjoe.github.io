@@ -25,11 +25,11 @@ yt-dlp --list-subs --skip-download "video_url"
 The maximum resolution supported by h264 codec is 1080p.
 h264 support by almost all device. If the video resolution is below or equal to 1080p, it is recommended to use h264 codec.
 ```bash
-yt-dlp -S "vcodec:h264,res:1080,acodec:m4a" "video_url" --write-sub --sub-lang "en,zh-HK" --convert-subs srt
+yt-dlp -S "vcodec:h264,res:1080,acodec:m4a" "video_url" --write-subs --sub-langs "en,zh-HK" --convert-subs srt
 ```
 
 ## Download video in mp4 which is h265 codec
 The maximum resolution supported by h265 codec is 4k.
 ```bash
-yt-dlp -S "vcodec:h265,res:4k,acodec:m4a" "video_url" --write-sub --sub-lang "en,zh-HK" --convert-subs srt
+yt-dlp -S "vcodec:h265,res:4k,acodec:m4a" "video_url" --write-subs --sub-langs "en,zh-HK" --convert-subs srt
 ```
