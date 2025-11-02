@@ -32,7 +32,7 @@ ninja.data = [{
           },
         },{id: "post-yt-dlp-quickstart",
         
-          title: "yt-dlp Quickstart",
+          title: "Yt Dlp Quickstart",
         
         description: "",
         section: "Posts",
@@ -41,9 +41,9 @@ ninja.data = [{
             window.location.href = "/blog/2025/yt-dlp-quickstart/";
           
         },
-      },{id: "post-how-to-debug-msvc-in-release-mode",
+      },{id: "post-debug-in-msvc",
         
-          title: "How to debug MSVC in release mode",
+          title: "Debug In Msvc",
         
         description: "",
         section: "Posts",
@@ -52,9 +52,9 @@ ninja.data = [{
             window.location.href = "/blog/2025/debug-in-msvc/";
           
         },
-      },{id: "post-how-to-change-the-line-endings-in-linux",
+      },{id: "post-change-line-end-in-linux",
         
-          title: "How to change the line endings in Linux",
+          title: "Change Line End In Linux",
         
         description: "",
         section: "Posts",
@@ -63,9 +63,9 @@ ninja.data = [{
             window.location.href = "/blog/2025/change-line-end-in-linux/";
           
         },
-      },{id: "post-how-to-find-the-vc-runtime-version-from-an-exe",
+      },{id: "post-check-vc-runtime-from-exe",
         
-          title: "How to find the vc runtime version from an exe",
+          title: "Check Vc Runtime From Exe",
         
         description: "",
         section: "Posts",
@@ -74,9 +74,9 @@ ninja.data = [{
             window.location.href = "/blog/2024/check-vc-runtime-from-exe/";
           
         },
-      },{id: "post-how-to-debug-local-variable-and-lambda-on-c-release-build",
+      },{id: "post-cpp-debug-in-release",
         
-          title: "How to debug local variable and lambda on c++ release build",
+          title: "Cpp Debug In Release",
         
         description: "",
         section: "Posts",
@@ -85,9 +85,9 @@ ninja.data = [{
             window.location.href = "/blog/2022/cpp-debug-in-release/";
           
         },
-      },{id: "post-why-auto-is-bad-in-c",
+      },{id: "post-why-auto-bad-in-cpp",
         
-          title: "Why auto is bad in c++",
+          title: "Why Auto Bad In Cpp",
         
         description: "",
         section: "Posts",
@@ -96,9 +96,9 @@ ninja.data = [{
             window.location.href = "/blog/2021/why-auto-bad-in-cpp/";
           
         },
-      },{id: "post-deep-copy-shadow-copy-an-object-in-java",
+      },{id: "post-deep-copy-in-java",
         
-          title: "Deep Copy/Shadow Copy an Object in Java",
+          title: "Deep Copy In Java",
         
         description: "",
         section: "Posts",
@@ -107,9 +107,9 @@ ninja.data = [{
             window.location.href = "/blog/2021/deep-copy-in-java/";
           
         },
-      },{id: "post-how-to-import-opencv-4-5-2-in-android-studio",
+      },{id: "post-import-opencv-to-android-studio",
         
-          title: "How to import OpenCV 4.5.2 in android studio",
+          title: "Import Opencv To Android Studio",
         
         description: "",
         section: "Posts",
@@ -118,9 +118,9 @@ ninja.data = [{
             window.location.href = "/blog/2021/import-opencv-to-android-studio/";
           
         },
-      },{id: "post-using-submodules-on-git",
+      },{id: "post-using-submodules-git",
         
-          title: "Using submodules on git",
+          title: "Using Submodules Git",
         
         description: "",
         section: "Posts",
@@ -129,11 +129,11 @@ ninja.data = [{
             window.location.href = "/blog/2021/using-submodules-git/";
           
         },
-      },{id: "post-passing-a-function-as-a-parameter-in-c",
+      },{id: "post-pass-cpp-function",
         
-          title: "Passing a function as a parameter in c++",
+          title: "Pass Cpp Function",
         
-        description: "Passing a function as a parameter in c++",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -142,7 +142,7 @@ ninja.data = [{
         },
       },{id: "post-homoscedasticity-and-heteroscedasticity",
         
-          title: "Homoscedasticity and Heteroscedasticity",
+          title: "Homoscedasticity And Heteroscedasticity",
         
         description: "",
         section: "Posts",
