@@ -1,3 +1,6 @@
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+
 ---
 layout: post
 title: How to find the vc runtime version from an exe
@@ -37,3 +40,6 @@ Step 3: Looking for the MSVCPxxx.dll or VCRUNTIMExxx.dll. The xxx is the version
 # References
 
 [Dumpbin](https://learn.microsoft.com/en-us/cpp/build/reference/dumpbin-command-line)
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->

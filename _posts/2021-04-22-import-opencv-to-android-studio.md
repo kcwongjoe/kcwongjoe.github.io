@@ -1,3 +1,6 @@
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+
 ---
 layout: post
 title: How to import OpenCV 4.5.2 in android studio
@@ -130,3 +133,6 @@ and in the java.
 </div>
 
 To study how to program OpenCV, read samples in the SDK folder you have downloaded. Enjoy~
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->

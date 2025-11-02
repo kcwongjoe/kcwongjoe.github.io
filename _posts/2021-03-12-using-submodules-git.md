@@ -1,3 +1,6 @@
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+
 ---
 layout: post
 title: Using submodules on git
@@ -49,3 +52,6 @@ git config --global status.submoduleSummary true
 ```bash
 git config --global diff.submodule log
 ```
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->

@@ -1,3 +1,6 @@
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+
 ---
 layout: post
 title: How to debug MSVC in release mode
@@ -31,3 +34,6 @@ std::wostringstream ss;
 ss << L"Joe: Testing Value" << testing_value << "." << std::endl;
 OutputDebugString(ss.str().c_str());
 ```
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->

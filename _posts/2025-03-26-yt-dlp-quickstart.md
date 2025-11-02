@@ -1,3 +1,6 @@
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+
 ---
 layout: post
 title: yt-dlp Quickstart
@@ -33,3 +36,6 @@ The maximum resolution supported by h265 codec is 4k.
 ```bash
 yt-dlp -S "vcodec:h265,res:4k,acodec:m4a" "video_url" --write-subs --sub-langs "en,zh-HK" --convert-subs srt
 ```
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->

@@ -1,3 +1,6 @@
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+
 ---
 layout: post
 title: Deep Copy/Shadow Copy an Object in Java
@@ -26,3 +29,6 @@ This method copy all of the object and instance inside the class. But I personal
 We can also use apache utils to implement it:
 
 <script src="https://gist.github.com/kcwongjoe/433f25733116e31e17316e789637905a.js"></script>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->

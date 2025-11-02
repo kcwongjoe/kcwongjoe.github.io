@@ -1,3 +1,6 @@
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+
 ---
 layout: post
 title: Why auto is bad in c++
@@ -40,3 +43,6 @@ std::chrono::system_clock::time_point tim = getTime();
 ```
 
 Even through we can see the type name on your code, you still have no clue what it is, right?
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->

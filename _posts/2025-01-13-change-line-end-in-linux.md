@@ -1,3 +1,6 @@
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+
 ---
 layout: post
 title: How to change the line endings in Linux
@@ -39,3 +42,6 @@ Using unix2dos command
 ```shell
 unix2dos abc.txt
 ```
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->

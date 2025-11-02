@@ -1,3 +1,6 @@
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+
 ---
 layout: post
 title: Homoscedasticity and Heteroscedasticity
@@ -36,3 +39,6 @@ where $$ \bar{\epsilon_{i}} = \frac{1}{n}\sum_{i}{\epsilon_{i}} $$
 $$ H_{0} $$ : The variances of $$ \mu_{i} $$ are equal.
 
 If the p-value is smaller than the significance level (such as 0.05), we can reject the null hypothesis and assume it is heteroscedasticity. Otherwise, we can say that it does not provide strong evidence that it is heteroscedasticity.
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->

@@ -76,7 +76,6 @@
         "Full-stack web development for IoT air pollution monitoring (Spring Boot, JavaScript, MySQL).",
         "Programmed <b>STM32 MCU (FreeRTOS)</b> for pollutant sensors; handled data storage (SD) and GPRS communication.",
         "Developed <b>Python</b> tools for sensor communication and data visualization."
-
       ]
     }
   ],
@@ -148,37 +147,19 @@
   "skills": [
     {
       "name": "Programming",
-      "keywords": [
-        "c, c++, C#",
-        "Java, Android(Java, C++)",
-        "Python",
-        "R, MATLAB"
-      ]
+      "keywords": ["c, c++, C#", "Java, Android(Java, C++)", "Python", "R, MATLAB"]
     },
     {
       "name": "Math",
-      "keywords": [
-        "Statistics",
-        "Image processing",
-        "Geometry"
-      ]
+      "keywords": ["Statistics", "Image processing", "Geometry"]
     },
     {
       "name": "Electronic",
-      "keywords": [
-        "Circuit design",
-        "FreeRTOS"
-      ]
+      "keywords": ["Circuit design", "FreeRTOS"]
     },
     {
       "name": "Build/Tools",
-      "keywords": [
-        "Jenkins",
-        "Git",
-        "CMake",
-        "Jira",
-        "Mercurial(hg)"
-      ]
+      "keywords": ["Jenkins", "Git", "CMake", "Jira", "Mercurial(hg)"]
     }
   ],
   "languages": [

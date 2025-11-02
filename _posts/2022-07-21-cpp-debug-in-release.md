@@ -1,3 +1,6 @@
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+
 ---
 layout: post
 title: How to debug local variable and lambda on c++ release build
@@ -19,3 +22,6 @@ bool a = true; // <-- This can be debugged in a release
 #pragma optimize("", on)
 bool b = false; // <-- This can't be debugged in a release
 ```
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->

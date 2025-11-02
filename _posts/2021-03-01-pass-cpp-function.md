@@ -1,3 +1,6 @@
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+
 ---
 layout: post
 title: Passing a function as a parameter in c++
@@ -74,3 +77,6 @@ Con:
 ## References
 
 [https://blog.demofox.org/2015/02/25/avoiding-the-performance-hazzards-of-stdfunction/](https://blog.demofox.org/2015/02/25/avoiding-the-performance-hazzards-of-stdfunction/)
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
